@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trey/CLionProjects/Assignment5/ShapesGood.cpp
+ShapesGood.h
+C:/Users/trey/CLionProjects/Assignment5/ShapesGood.h
+string
+-
+iostream
+-
+
+C:/Users/trey/CLionProjects/Assignment5/ShapesGood.h
+string
+-
+
+C:/Users/trey/CLionProjects/Assignment5/TestGoodShapes.cpp
+iostream
+-
+string
+-
+vector
+-
+ShapesGood.h
+C:/Users/trey/CLionProjects/Assignment5/ShapesGood.h
+
